@@ -4,7 +4,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Jerryaicn\\Youdu\\": "src/"
+            "Jerryaicn2023\\Youdu\\": "src/"
         }
     },
     "authors": [
